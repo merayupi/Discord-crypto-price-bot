@@ -1,0 +1,26 @@
+{
+  "name": "botdiscord",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "coingecko-api": "^1.0.10",
+    "discord.js-selfbot-v13": "^2.4.12",
+    "underscore": "^1.13.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/merayupi/Discord-crypto-price-bot.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/merayupi/Discord-crypto-price-bot/issues"
+  },
+  "homepage": "https://github.com/merayupi/Discord-crypto-price-bot#readme"
+}
